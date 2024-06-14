@@ -9,9 +9,6 @@ An algorithm using python for image encryption based on genetic central dogma
 - MatplotLib
 - StreamLit
 
-## Website
-[https://image-encryption-algorithm-based-on-genetic-central-dogma-ch.streamlit.app/]
-
 ## Workflow
 ![WhatsApp Image 2024-01-22 at 01 48 17](https://github.com/saiabhiramjaini/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma/assets/115941546/ba53873a-f9d2-4978-8b91-6a9ce3cbb5ea)
 
@@ -52,5 +49,5 @@ The central dogma describes how the genetic code in our DNA is converted into th
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
-- **Repository :** https://github.com/saiabhiramjaini/Image-Encryption-Algorithm-Based-On-Genetic-Central-Dogma
+- [@Thakur9393](https://github.com/Thakur9393)
+- **Repository :** https://github.com/Thakur9393/IMAGE-ENCRYPTION
